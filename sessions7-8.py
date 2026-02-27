@@ -66,7 +66,7 @@ print(text.find("z"))  # -1
 # replace = replaces part of string
 print(text.replace("P", "J"))  # Jython
 
-# count = ounts how many times something appears.
+# count = counts how many times something appears.
 text = "banana"
 print(text.count("a"))  # 3
 
